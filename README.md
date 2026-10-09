@@ -50,7 +50,7 @@ Me dedico a diseñar e implementar **backends robustos y escalables**, y a conec
 **Datos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
 </p>
